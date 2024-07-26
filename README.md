@@ -17,4 +17,4 @@ for(int name=0;name<nos.length;name++)
 }
 
 }
-}# templet
+}
